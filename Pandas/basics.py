@@ -10,3 +10,4 @@ df.tail()
 df.info()
 df.describe
 df.shape
+
